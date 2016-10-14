@@ -16,6 +16,7 @@ public class DGApp {
 		System.out.print("github");
 		System.out.print("github");
 		System.out.print("~~~~~");
+		System.out.print("add by hyp");
 	}
 
 }
